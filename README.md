@@ -5,9 +5,6 @@ I'm David, a dude from Georgia, the country. I code... `*ba dum tss*`
 ### 📈 Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=memory-hunter&show_icons=true&hide_border=true)
 
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memory-hunter&hide=html,css&layout=compact&hide_border=true)
-
 ### 📊 Github Contributions
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=memory-hunter&limit=5)
 
